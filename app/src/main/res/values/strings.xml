@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="Weight">Weight (KG)</string>
+    <string name="Height">Height (M)</string>
+    <string name="editWeight">Weight (KG)</string>
+    <string name="editHeight">Height (M)</string>
+</resources>
